@@ -1,0 +1,314 @@
+Version 4.6
+Diagram_Title ""
+Notes1 ""
+Notes2 ""
+Canvas_size 25000 14000
+Canvas_position -1588 842
+Diagram_offset 0 0
+Hosts_file "C:\Program Files (x86)\Network Notepad\hosts"
+Colours &hFFFFFF& &hFF0000& &hFEEDED& &h0& &hC0FFFF&
+Default_font "MS Sans Serif" 8 False False False False &h0& &hFFFFFF&
+
+No_Insert_Object 1
+No_Insert_Object 2
+No_Insert_Object 3
+No_Insert_Object 4
+No_Insert_Object 5
+No_Insert_Object 6
+No_Insert_Object 7
+No_Insert_Object 8
+No_Insert_Object 9
+No_Insert_Object 10
+No_Insert_Object 11
+No_Insert_Object 12
+No_Insert_Object 13
+No_Insert_Object 14
+No_Insert_Object 15
+No_Insert_Object 16
+No_Insert_Object 17
+No_Insert_Object 18
+No_Insert_Object 19
+No_Insert_Object 20
+No_Insert_Object 21
+Insert_object 22 Router1 14123.5 8925 1 ! ! ! 2 1 1 1 !
+Insert_object 23 Router1 9915.5 1905 3 ! ! ! 4 1 1 1 !
+Insert_object 24 Router1 5797.5 8685 5 ! ! ! 6 1 1 1 !
+Insert_object 25 Router1 5707.5 4320 7 ! ! ! 8 1 1 1 !
+Insert_object 26 Router1 14092.5  4095 9 ! ! ! 10 1 1 1 !
+Insert_object 27 Router1 9981.5 10590 11 ! ! ! 12 1 1 1 !
+Insert_object 28 Pc1 8955 1125 13 ! ! ! 14 1 1 1 !
+Insert_object 29 Pc1 10260 900 15 ! ! ! 16 1 1 1 !
+Insert_object 30 Pc1 10875 1185 17 ! ! ! 18 1 1 1 !
+Insert_object 31 Pc1 11220 1785 19 ! ! ! 20 1 1 1 !
+Insert_object 32 Pc1 8655 1830 21 ! ! ! 22 1 1 1 !
+Insert_object 33 Pc1 6255 3045 23 ! ! ! 24 1 1 1 !
+Insert_object 34 Pc1 5340 3075 25 ! ! ! 26 1 1 1 !
+Insert_object 35 Pc1 4560 3600 27 ! ! ! 28 1 1 1 !
+Insert_object 36 Pc1 4560 4890 29 ! ! ! 30 1 1 1 !
+Insert_object 37 Pc1 5100 5340 31 ! ! ! 32 1 1 1 !
+Insert_object 38 Pc1 4740 7815 33 ! ! ! 34 1 1 1 !
+Insert_object 39 Pc1 4260 8535 35 ! ! ! 36 1 1 1 !
+Insert_object 40 Pc1 4455 9330 37 ! ! ! 38 1 1 1 !
+Insert_object 41 Pc1 5640 9840 39 ! ! ! 40 1 1 1 !
+Insert_object 42 Pc1 6360 9690 41 ! ! ! 42 1 1 1 !
+Insert_object 43 Pc1 8475 10665 43 ! ! ! 44 1 1 1 !
+Insert_object 44 Pc1 8925 11385 45 ! ! ! 46 1 1 1 !
+Insert_object 45 Pc1 9840 11625 47 ! ! ! 48 1 1 1 !
+Insert_object 46 Pc1 11115 11280 49 ! ! ! 50 1 1 1 !
+Insert_object 47 Pc1 11430 10605 51 ! ! ! 52 1 1 1 !
+No_Insert_Object 48
+Insert_object 49 Pc1 13560 10155 55 ! ! ! 56 1 1 1 !
+Insert_object 50 Pc1 14310 10200 57 ! ! ! 58 1 1 1 !
+Insert_object 51 Pc1 14940 9915 59 ! ! ! 60 1 1 1 !
+Insert_object 52 Pc1 15375 8670 61 ! ! ! 62 1 1 1 !
+Insert_object 53 Pc1 14865 8070 63 ! ! ! 64 1 1 1 !
+Insert_object 54 Pc1 15150  5160 65 ! ! ! 66 1 1 1 !
+Insert_object 55 Pc1 16020  4005 67 ! ! ! 68 1 1 1 !
+Insert_object 56 Pc1 15825  4680 69 ! ! ! 70 1 1 1 !
+Insert_object 57 Pc1 14940  2925 71 ! ! ! 72 1 1 1 !
+Insert_object 58 Pc1 13995  2910 73 ! ! ! 74 1 1 1 !
+No_Insert_Object 59
+No_Insert_Object 60
+No_Insert_Object 61
+No_Insert_Object 62
+Insert_object 63 Cloud1 9937.5  6308.5 75 ! ! ! 76 1 1 1 !
+No_Insert_Object 64
+No_Insert_Object 65
+No_Insert_Object 66
+No_Insert_Object 67
+No_Insert_Object 68
+No_Insert_Object 69
+No_Insert_Object 70
+No_Insert_Object 71
+No_Insert_Object 72
+No_Insert_Object 73
+No_Insert_Object 74
+No_Insert_Object 75
+Insert_object 76 linknode 11775 11940 ! ! linknode ! ! ! ! ! ! 
+No_Insert_Object 77
+No_Insert_Object 78
+No_Insert_Object 79
+No_Insert_Object 80
+No_Insert_Object 81
+No_Insert_Object 82
+Insert_object 83 Printer1 4290.5 4275 79 ! ! ! 80 1 1 1 !
+Insert_object 84 Printer1 4919.5 9885 81 ! ! ! 82 1 1 1 !
+Insert_object 85 Printer1 10589.5 11640 83 ! ! ! 84 1 1 1 !
+Insert_object 86 Printer1 15450.5 9345 85 ! ! ! 86 1 1 1 !
+Insert_object 87 Printer1 15660.5  3270 87 ! ! ! 88 1 1 1 !
+Insert_object 88 Printer1 9555.5 900 89 ! ! ! 90 1 1 1 !
+No_Insert_Object 89
+No_Insert_Object 90
+No_Insert_Object 91
+No_Insert_Object 92
+No_Insert_Object 93
+No_Insert_Object 94
+No_Insert_Object 95
+No_Insert_Object 96
+
+Insert_label 1 s ! IT ! ! ! ! ! ! ! 22 object ! !
+Insert_label 2 n ! 196.45.32.97 ! ! ! ! ! ! ! 22 ip ! !
+Insert_label 3 -22 -165 Sales ! ! ! ! ! ! ! 23 object ! !
+Insert_label 4 n ! 196.45.32.33 ! ! ! ! ! ! ! 23 ip ! !
+Insert_label 5 690 -120 "Research and Development" ! ! ! ! ! ! ! 24 object ! !
+Insert_label 6 n ! 196.45.32.161 ! ! ! ! ! ! ! 24 ip ! !
+Insert_label 7 98 -150 Finance ! ! ! ! ! ! ! 25 object ! !
+Insert_label 8 n ! 196.45.32.193 ! ! ! ! ! ! ! 25 ip ! !
+Insert_label 9 53 -180 Service ! ! ! ! ! ! ! 26 object ! !
+Insert_label 10 n ! 196.45.32.65 ! ! ! ! ! ! ! 26 ip ! !
+Insert_label 11 292 -150 Administration ! ! ! ! ! ! ! 27 object ! !
+Insert_label 12 n ! 196.45.32.129 ! ! ! ! ! ! ! 27 ip ! !
+Insert_label 13 s ! "Pc 2" ! ! ! ! ! ! ! 28 object ! !
+Insert_label 14 n ! 196.45.32.35 ! ! ! ! ! ! ! 28 ip ! !
+Insert_label 15 s ! "Pc 3" ! ! ! ! ! ! ! 29 object ! !
+Insert_label 16 n ! 196.45.32..37 ! ! ! ! ! ! ! 29 ip ! !
+Insert_label 17 s ! "Pc 4" ! ! ! ! ! ! ! 30 object ! !
+Insert_label 18 n ! 196.45.32.38 ! ! ! ! ! ! ! 30 ip ! !
+Insert_label 19 s ! "Pc 5" ! ! ! ! ! ! ! 31 object ! !
+Insert_label 20 n ! 196.45.32.39 ! ! ! ! ! ! ! 31 ip ! !
+Insert_label 21 s ! Pc1 ! ! ! ! ! ! ! 32 object ! !
+Insert_label 22 n ! 196.45.32.34 ! ! ! ! ! ! ! 32 ip ! !
+Insert_label 23 s ! "Pc 5" ! ! ! ! ! ! ! 33 object ! !
+Insert_label 24 n ! 196.45.32.199 ! ! ! ! ! ! ! 33 ip ! !
+Insert_label 25 s ! "Pc 4" ! ! ! ! ! ! ! 34 object ! !
+Insert_label 26 n ! 196.45.32.198 ! ! ! ! ! ! ! 34 ip ! !
+Insert_label 27 s ! "Pc 3" ! ! ! ! ! ! ! 35 object ! !
+Insert_label 28 n ! 196.45.32.197 ! ! ! ! ! ! ! 35 ip ! !
+Insert_label 29 s ! "Pc 2" ! ! ! ! ! ! ! 36 object ! !
+Insert_label 30 n ! 196.45.32.195 ! ! ! ! ! ! ! 36 ip ! !
+Insert_label 31 s ! Pc1 ! ! ! ! ! ! ! 37 object ! !
+Insert_label 32 n ! 196.45.32.194 ! ! ! ! ! ! ! 37 ip ! !
+Insert_label 33 s ! "Pc 5" ! ! ! ! ! ! ! 38 object ! !
+Insert_label 34 n ! 196.45.32.167 ! ! ! ! ! ! ! 38 ip ! !
+Insert_label 35 s ! "Pc 4" ! ! ! ! ! ! ! 39 object ! !
+Insert_label 36 n ! 196.45.32.166 ! ! ! ! ! ! ! 39 ip ! !
+Insert_label 37 s ! "Pc 3" ! ! ! ! ! ! ! 40 object ! !
+Insert_label 38 n ! 196.45.32.165 ! ! ! ! ! ! ! 40 ip ! !
+Insert_label 39 s ! "Pc 2" ! ! ! ! ! ! ! 41 object ! !
+Insert_label 40 n ! 196.45.32.163 ! ! ! ! ! ! ! 41 ip ! !
+Insert_label 41 s ! Pc1 ! ! ! ! ! ! ! 42 object ! !
+Insert_label 42 n ! 196.45.32.162 ! ! ! ! ! ! ! 42 ip ! !
+Insert_label 43 s ! "Pc 5" ! ! ! ! ! ! ! 43 object ! !
+Insert_label 44 n ! 196.45.32.136 ! ! ! ! ! ! ! 43 ip ! !
+Insert_label 45 s ! "Pc 4" ! ! ! ! ! ! ! 44 object ! !
+Insert_label 46 n ! 196.45.32.135 ! ! ! ! ! ! ! 44 ip ! !
+Insert_label 47 s ! "Pc 3" ! ! ! ! ! ! ! 45 object ! !
+Insert_label 48 n ! 196.45.32.134 ! ! ! ! ! ! ! 45 ip ! !
+Insert_label 49 s ! "Pc 2" ! ! ! ! ! ! ! 46 object ! !
+Insert_label 50 n ! 196.45.32.132 ! ! ! ! ! ! ! 46 ip ! !
+Insert_label 51 s ! Pc1 ! ! ! ! ! ! ! 47 object ! !
+Insert_label 52 n ! 196.45.32.130 ! ! ! ! ! ! ! 47 ip ! !
+No_Insert_Label 53
+No_Insert_Label 54
+Insert_label 55 s ! "Pc 4" ! ! ! ! ! ! ! 49 object ! !
+Insert_label 56 n ! 196.45.32.103 ! ! ! ! ! ! ! 49 ip ! !
+Insert_label 57 s ! "Pc 4" ! ! ! ! ! ! ! 50 object ! !
+Insert_label 58 n ! 196.45.32.102 ! ! ! ! ! ! ! 50 ip ! !
+Insert_label 59 -90 -525 "Pc 3" ! ! ! ! ! ! ! 51 object ! !
+Insert_label 60 n ! 196.45.32.101 ! ! ! ! ! ! ! 51 ip ! !
+Insert_label 61 -90 -450 "Pc 2" ! ! ! ! ! ! ! 52 object ! !
+Insert_label 62 n ! 196.45.32.99 ! ! ! ! ! ! ! 52 ip ! !
+Insert_label 63 s ! Pc1 ! ! ! ! ! ! ! 53 object ! !
+Insert_label 64 n ! 196.45.32.98 ! ! ! ! ! ! ! 53 ip ! !
+Insert_label 65 s ! "Pc 5" ! ! ! ! ! ! ! 54 object ! !
+Insert_label 66 n ! 196.45.32.71 ! ! ! ! ! ! ! 54 ip ! !
+Insert_label 67 s ! "Pc 3" ! ! ! ! ! ! ! 55 object ! !
+Insert_label 68 n ! 196.45.32.69 ! ! ! ! ! ! ! 55 ip ! !
+Insert_label 69 s ! "Pc 4" ! ! ! ! ! ! ! 56 object ! !
+Insert_label 70 n ! 196.45.32.70 ! ! ! ! ! ! ! 56 ip ! !
+Insert_label 71 s ! "Pc 2" ! ! ! ! ! ! ! 57 object ! !
+Insert_label 72 n ! 196.45.32.67 ! ! ! ! ! ! ! 57 ip ! !
+Insert_label 73 s ! Pc1 ! ! ! ! ! ! ! 58 object ! !
+Insert_label 74 n ! 196.45.32.66 ! ! ! ! ! ! ! 58 ip ! !
+Insert_label 75 s ! Internet ! ! ! ! ! ! ! 63 object ! !
+Insert_label 76 n ! ! ! ! ! ! ! ! ! 63 ip ! !
+No_Insert_Label 77
+No_Insert_Label 78
+Insert_label 79 s ! Printer1 ! ! ! ! ! ! ! 83 object ! !
+Insert_label 80 n ! 196.45.32.196 ! ! ! ! ! ! ! 83 ip ! !
+Insert_label 81 s ! Printer1 ! ! ! ! ! ! ! 84 object ! !
+Insert_label 82 n ! 196.45.32.164 ! ! ! ! ! ! ! 84 ip ! !
+Insert_label 83 s ! Printer1 ! ! ! ! ! ! ! 85 object ! !
+Insert_label 84 n ! 196.45.32.133 ! ! ! ! ! ! ! 85 ip ! !
+Insert_label 85 s ! Printer1 ! ! ! ! ! ! ! 86 object ! !
+Insert_label 86 n ! 196.45.32.100 ! ! ! ! ! ! ! 86 ip ! !
+Insert_label 87 53 -330 Printer1 ! ! ! ! ! ! ! 87 object ! !
+Insert_label 88 n ! 196.45.32.68 ! ! ! ! ! ! ! 87 ip ! !
+Insert_label 89 s ! Printer1 ! ! ! ! ! ! ! 88 object ! !
+Insert_label 90 n ! 196.45.32.36 ! ! ! ! ! ! ! 88 ip ! !
+Insert_label 91 8460  45 "Adddress Range:196.45.32.33-196.45.32.62<<crlf>>Subnet Address:196.45.32.32<<crlf>>Maximum Nodes:30" "MS Sans Serif" 8.25 False False False False &H0 0 ! &HFFFFFF
+No_insert_label 92 1792 3382 ! "MS Sans Serif" 8 False False False False &H0 0 ! &HFFFFFF
+No_insert_label 93 2272 9202 ! "MS Sans Serif" 8 False False False False &H0 0 ! &HFFFFFF
+Insert_label 94 3765 2235 "Adddress Range:196.45.32.193-196.45.32.<<crlf>>Subnet Address:196.45.32.192<<crlf>>Maximum Nodes:30" "MS Sans Serif" 8.25 False False False False &H0 0 ! &HFFFFFF
+Insert_label 95 4245  10440 "Adddress Range:196.45.32.161-196.45.32.190<<crlf>>Subnet Address:196.45.32.160<<crlf>>Maximum Nodes:30" "MS Sans Serif" 8.25 False False False False &H0 0 ! &HFFFFFF
+Insert_label 96 8490  12240 "Adddress Range:196.45.32.129-196.45.32.158<<crlf>>Subnet Address:196.45.32.128<<crlf>>Maximum Nodes:30" "MS Sans Serif" 8.25 False False False False &H0 0 ! &HFFFFFF
+Insert_label 97 12750  10845 "Adddress Range:196.45.32.97-196.45.32.126<<crlf>>Subnet Address:196.45.32.96<<crlf>>Maximum Nodes:30" "MS Sans Serif" 8.25 False False False False &H0 0 ! &HFFFFFF
+Insert_label 98 12870  1965 "Adddress Range:196.45.32.65-196.45.32.94<<crlf>>Subnet Address:196.45.32.64<<crlf>>Maximum Nodes:30" "MS Sans Serif" 8.25 False False False False &H0 0 ! &HFFFFFF
+No_insert_label 99 15278 878 ! "MS Sans Serif" 8.25 False False False False &H0 0 ! &HFFFFFF
+No_insert_label 100 15472 892 ! "MS Sans Serif" 8.25 False False False False &H0 0 ! &HFFFFFF
+
+No_link_object 1
+No_Link_object 2
+No_Link_object 3
+No_Link_object 4
+No_Link_object 5
+No_link_object 6
+No_Link_object 7
+Link_object 8 23 31 "64K LL" ! ! ! ! ! ! .717 .2 -.938 .625
+No_Link_object 9
+No_Link_object 10
+Link_object 11 23 32 "64K LL" ! ! ! ! ! ! -.723 -.2 .937 .312
+Link_object 12 63 26 "64K LL" ! ! ! ! ! ! 1 -.126 -.76 .4
+No_Link_object 13
+Link_object 14 26 58 "64K LL" ! ! ! ! ! ! -.12 -.8 -.188 .875
+Link_object 15 26 57 "64K LL" ! ! ! ! ! ! .12 -.4 .062 .875
+Link_object 16 26 55 "64K LL" ! ! ! ! ! ! .84 -.2 -.938 .812
+Link_object 17 26 56 "64K LL" ! ! ! ! ! ! .92 0 -1 .187
+No_Link_object 18
+Link_object 19 63 22 "64K LL" ! ! ! ! ! ! .757 .514 -.926 -.6
+No_Link_object 20
+No_Link_object 21
+No_Link_object 22
+No_Link_object 23
+No_Link_object 24
+No_Link_object 25
+Link_object 26 22 53 "64K LL" ! ! ! ! ! ! .674 -1 -.625 .187
+Link_object 27 63 27 "64K LL" ! ! ! ! ! ! .03 .674 .045 -.4
+No_Link_object 28
+No_Link_object 29
+Link_object 30 27 44 "64K LL" ! ! ! ! ! ! -.035 .8 .25 -.063
+Link_object 31 27 45 "64K LL" ! ! ! ! ! ! .045 .6 .187 -.25
+No_Link_object 32
+No_Link_object 33
+Link_object 34 76 ! "64K LL" ! ! ! ! ! ! 0 0 ! ! 
+Link_object 35 63 25 "64K LL" ! ! ! ! ! ! -.758 -.366 .68 .6
+Link_object 36 25 33 "64K LL" ! ! ! ! ! ! -.04 -.8 .062 .687
+Link_object 37 25 34 "64K LL" ! ! ! ! ! ! -.04 -1 -.125 .75
+Link_object 38 25 35 "64K LL" ! ! ! ! ! ! -.84 -.2 .812 .75
+Link_object 39 25 36 "64K LL" ! ! ! ! ! ! -.92 .6 .75 .125
+Link_object 40 25 37 "64K LL" ! ! ! ! ! ! -.36 .6 .187 -.75
+Link_object 41 63 24 "64K LL" ! ! ! ! ! ! -.273 .274 .04 0
+Link_object 42 24 38 "64K LL" ! ! ! ! ! ! -.52 -.2 .25 .625
+Link_object 43 24 39 "64K LL" ! ! ! ! ! ! -.44 0 .562 .5
+Link_object 44 24 40 "64K LL" ! ! ! ! ! ! -.2 .2 .562 .312
+Link_object 45 24 41 "64K LL" ! ! ! ! ! ! -.04 .6 .25 0
+Link_object 46 24 42 "64K LL" ! ! ! ! ! ! .28 0 0 .125
+Link_object 47 25 24 "64K LL" ! ! ! ! ! ! -.04 .4 -.04 -.6
+Link_object 48 25 23 "64K LL" ! ! ! ! ! ! .28 -.8 -.803 .8
+Link_object 49 23 26 "64K LL" ! ! ! ! ! ! .557 .6 -.84 0
+Link_object 50 26 22 "64K LL" ! ! ! ! ! ! -.2 .6 -.046 -1
+Link_object 51 22 27 "64K LL" ! ! ! ! ! ! -.686 0 .525 -1
+No_Link_object 52
+Link_object 53 24 27 "64K LL" ! ! ! ! ! ! .76 .6 -.835 -.6
+No_link_object 54
+Link_object 55 22 52 "64K LL" ! ! ! ! ! ! .594 .2 -.875 .375
+No_Link_object 56
+No_Link_object 57
+Link_object 58 22 51 "64K LL" ! ! ! ! ! ! .594 0 -.563 -.063
+Link_object 59 22 50 "64K LL" ! ! ! ! ! ! .274 .8 -.375 -.25
+Link_object 60 22 49 "64K LL" ! ! ! ! ! ! -.366 .4 .062 -.25
+No_Link_object 61
+No_Link_object 62
+Link_object 63 25 83 "64K LL" ! ! ! ! ! ! -.52 .2 .549 .3
+Link_object 64 24 84 "64K LL" ! ! ! ! ! ! -.28 -.2 .691 -.2
+Link_object 65 27 85 "64K LL" ! ! ! ! ! ! .125 -.2 -.205 -.6
+Link_object 66 22 86 "64K LL" ! ! ! ! ! ! .594 .8 -.21 .3
+No_Link_object 67
+Link_object 68 26 87 "64K LL" ! ! ! ! ! ! .52 0 -.692 .6
+Link_object 69 57 ! "64K LL" ! ! ! ! ! ! -.688 -.188 ! 
+Link_object 70 27 47 "64K LL" ! ! ! ! ! ! .445 .2 -.813 .062
+No_Link_object 71
+Link_object 72 26 54 "64K LL" ! ! ! ! ! ! .36 .8 -.5 -.5
+No_link_object 73
+Link_object 74 27 46 "64K LL" ! ! ! ! ! ! .445 .2 -.313 -.125
+Link_object 75 27 43 "64K LL" ! ! ! ! ! ! -.595 0 0 0
+No_Link_object 76
+No_Link_object 77
+Link_object 78 23 28 "64K LL" ! ! ! ! ! ! -.323 0 -.063 .187
+Link_object 79 23 88 "64K LL" ! ! ! ! ! ! .077 -.4 -.21 -.4
+Link_object 80 23 29 "64K LL" ! ! ! ! ! ! .237 -.4 -.125 .062
+Link_object 81 23 30 "64K LL" ! ! ! ! ! ! .477 -.4 0 .437
+No_Link_object 82
+Link_object 83 23 63 "64K LL" ! ! ! ! ! ! .077 0 .09 .114
+No_link_object 84
+
+Define_link "64K LL" 0 &HFF00& 1 2 9 0 ! ! ! ! 
+Define_link "64k ISDN" 0 &HFF& 3 1 9 1 ! ! ! ! 
+Define_link 10baseT 0 &H808080 1 2 9 0 ! ! ! ! 
+Define_link 100baseT 0 &H808080 1 2 9 0 ! ! ! ! 
+Define_link "128K LL" 0 &Hff80ff 1 2 9 0 ! ! ! ! 
+Define_link "256K LL" 0 &Hffff& 1 4 9 0 ! ! ! ! 
+Define_link "512K LL" 0 &H808080 1 5 9 0 ! ! ! ! 
+Define_link "1M LL" 0 &Hc0c0c0 1 6 9 0 ! ! ! ! 
+Define_link "2M LL" 0 &H808080 1 7 9 0 ! ! ! ! 
+Define_link Fibre 0 &H0& 1 1 9 0 ! ! ! ! 
+Define_link Cable 1 &HFF00& 1 12 9 0 ! ! ! ! 
+Define_link ADSL 1 &HFF8000& 1 12 9 0 ! ! ! ! 
+Define_link ATM 1 &HC080FF& 1 12 9 0 ! ! ! ! 
+Define_link "64K LL2" 1 &HFF00& 1 12 9 0 ! ! ! ! 
+Define_link "128K LL2" 1 &Hff80ff 1 14 9 0 ! ! ! ! 
+Define_link "256K LL2" 1 &Hffff& 1 16 9 0 ! ! ! ! 
+Define_link "512K LL2" 1 &H808080 1 18 9 0 ! ! ! ! 
+Define_link "1M LL2" 1 &Hc0c0c0 1 20 9 0 ! ! ! ! 
+Define_link "2M LL2" 1 &H808080 1 22 9 0 ! ! ! ! 
+Define_link backbone 0 &Hc0c0c0 1 3 9 0 ! ! ! ! 
